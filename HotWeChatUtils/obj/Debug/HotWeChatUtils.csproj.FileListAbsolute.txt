@@ -1,0 +1,9 @@
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\bin\Debug\HotWeChatUtils.exe.config
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\bin\Debug\HotWeChatUtils.exe
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\bin\Debug\HotWeChatUtils.pdb
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.Properties.Resources.resources
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.csproj.GenerateResource.Cache
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.exe
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.pdb
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.Form1.resources
+J:\HOT\CODE\DEMO\SendWeChat\SendWeChatUtils\HotWeChatUtils\obj\Debug\HotWeChatUtils.csprojResolveAssemblyReference.cache
